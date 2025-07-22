@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import { useRouter } from 'next/navigation'
-import profilePic from '@/public/design/Keegan-Burkett.jpeg'
+import profilePic from '@/public/design/logo.png'
 import Balancer from 'react-wrap-balancer'
 
 import { cn } from '@/lib/utils'

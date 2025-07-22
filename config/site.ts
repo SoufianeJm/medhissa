@@ -10,9 +10,9 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: 'Keegan Burkett | Software Engineer & Product Designer',
+  name: 'Mohamed Hissa',
   description:
-    'Personal website of Keegan Burkett, a software engineer and product designer based in the United States.',
+    'Personal website of Mohamed Hissa',
   navLinks: [
     { href: '/', label: 'About' },
     { href: '/tools', label: 'Tools' },

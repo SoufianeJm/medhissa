@@ -87,23 +87,6 @@ export function CommandMenu({ ...props }: CommandMenuProps) {
             </CommandItem>
           </CommandGroup>
           <CommandSeparator />
-          <CommandGroup heading="Pages">
-            {siteConfig.navLinks.map((link) => (
-              <CommandItem
-                key={link.href}
-                value={link.label}
-                onSelect={() => {
-                  runCommand(() => router.push(link.href as string))
-                }}
-              >
-                <div className="mr-2 flex h-4 w-4 items-center justify-center">
-                  <Circle className="h-3 w-3" />
-                </div>
-                {link.label}
-                {/* <CommandShortcut>⌘{link.label[0]}</CommandShortcut> */}
-              </CommandItem>
-            ))}
-          </CommandGroup>
         </CommandList>
       </CommandDialog>
     </>

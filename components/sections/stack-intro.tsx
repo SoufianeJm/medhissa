@@ -7,7 +7,7 @@ export function StackIntro() {
         <div className="grid auto-rows-auto gap-12">
           <div className="grid grid-cols-1 gap-2">
             <p className="text-tertiary-foreground">
-              A few of my favorite tools
+              Pour RDV et renseignements
             </p>
           </div>
         </div>

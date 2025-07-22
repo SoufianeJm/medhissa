@@ -14,14 +14,14 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://keeg.in'),
   title: {
     default: siteConfig.name,
-    template: '%s | Keegan Burkett',
+    template: '%s | Mohamed Hissa',
   },
   description: siteConfig.description,
   openGraph: {
     title: siteConfig.name,
     description: siteConfig.description,
-    url: 'https://keeg.in',
-    siteName: 'Keegan Burkett',
+    url: '???',
+    siteName: 'Mohamed Hissa',
     locale: 'en-US',
     type: 'website',
   },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: 'Keegan Burkett',
+    title: 'Mohamed Hissa',
     card: 'summary_large_image',
   },
   verification: {},
