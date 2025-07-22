@@ -6,7 +6,7 @@ import { StackCard } from '@/components/sections/stack-card'
 export default function Home() {
   return (
     <>
-      <Hero title={'Mohamed Psychomotricien'} includeImage />
+      <Hero title={'Mohamed Hissa - Psychomotricien'} includeImage />
       <ContentCard />
       <StackIntro />
       <StackCard />
