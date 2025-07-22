@@ -4,7 +4,7 @@ import { StackIntro } from '@/components/sections/stack-intro'
 
 export function ContentCard() {
   return (
-    <Container type="section" className="pb-24">
+    <Container type="section" className="pb-12">
       <div className="rounded-xl">
         <div className="grid auto-rows-auto gap-12">
           <div className="grid grid-cols-1 gap-2">
