@@ -10,7 +10,7 @@ export function ContentCard() {
           <div className="grid grid-cols-1 gap-2">
             <p className="text-tertiary-foreground">Address</p>
             <p>
-            📍 35, Boulevard Moulouya<br/>
+            35, Boulevard Moulouya<br/>
             Immeuble Jad Office, 4ᵉ étage, Bureau n°21<br/>
             Oulfa, Casablanca
             </p>
