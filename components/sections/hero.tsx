@@ -29,9 +29,9 @@ export function Hero({
             <Image
               src={profilePic}
               alt="Keegn Burkett profile picture"
-              width={32}
-              height={32}
-              className="cursor-pointer rounded-full"
+              width={64}
+              height={64}
+              className="cursor-pointer rounded-full border border-zinc-300"
               placeholder="blur"
               onClick={() => router.push('/')}
             />

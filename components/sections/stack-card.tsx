@@ -17,7 +17,7 @@ export function StackCard() {
             className="flex w-full items-center gap-5 border-b border-zinc-100 p-5 hover:rounded-md hover:bg-zinc-100 dark:border-zinc-900 dark:hover:bg-zinc-900"
           >
             {/* Icon */}
-            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-md border-transparent bg-zinc-100 p-2 dark:bg-zinc-900">
+            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-md border-transparent bg-green-100 p-2 dark:bg-zinc-900">
               <Image
                 src={whatsappLogo}
                 alt="WhatsApp logo"
@@ -42,7 +42,7 @@ export function StackCard() {
             className="flex w-full items-center gap-5 border-b border-zinc-100 p-5 hover:rounded-md hover:bg-zinc-100 dark:border-zinc-900 dark:hover:bg-zinc-900"
           >
             {/* Icon */}
-            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-md border-transparent bg-zinc-100 p-2 dark:bg-zinc-900">
+            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-md border-transparent bg-green-100 p-2 dark:bg-zinc-900">
               <Image
                 src={phoneLogo}
                 alt="Phone logo"
@@ -67,7 +67,7 @@ export function StackCard() {
             className="flex w-full items-center gap-5 border-b border-zinc-100 p-5 hover:rounded-md hover:bg-zinc-100 dark:border-zinc-900 dark:hover:bg-zinc-900"
           >
             {/* Icon */}
-            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-md border-transparent bg-zinc-100 p-2 dark:bg-zinc-900">
+            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-md border-transparent bg-green-100 p-2 dark:bg-zinc-900">
               <Image
                 src={mailLogo}
                 alt="mail logo"
