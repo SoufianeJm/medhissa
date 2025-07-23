@@ -78,7 +78,7 @@ export function StackCard() {
             </div>
             {/* Text */}
             <div className="flex flex-col items-start">
-              <span>email</span>
+              <span>Email</span>
               <span className="text-sm text-tertiary-foreground">
               mohamedhissawork@gmail.com
               </span>
